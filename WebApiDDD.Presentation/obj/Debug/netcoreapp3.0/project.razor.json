@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\Hp\\Desktop\\ddd\\WebApiDDD.Presentation\\WebApiDDD.Presentation.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "WebApiDDD.Presentation",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
